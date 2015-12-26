@@ -1,0 +1,10 @@
+base
+googleVis
+plyr
+dplyr
+reshape2
+shiny
+shinyapps
+devtools
+slidify
+knitr
